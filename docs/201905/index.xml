@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>201905 on  粵語是最好聽的語言。我是這樣認為的。這裡，是我收集的粵語新聞、資料。</title>
+    <link>/201905/</link>
+    <description>Recent content in 201905 on  粵語是最好聽的語言。我是這樣認為的。這裡，是我收集的粵語新聞、資料。</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/201905/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>20190430 六四30周年 - 我是記者 我的六四故事large</title>
+      <link>/201905/20190430__opmbgrcdwjg_large/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/201905/20190430__opmbgrcdwjg_large/</guid>
+      <description>Your browser does not support the video tag. https://www.youtube.com/watch?v=oPmbGRcDwJg 六四30周年 - 我是記者 我的六四故事large  </description>
+    </item>
+    
+    <item>
+      <title>20190430 六四30周年 - 我是記者 我的六四故事small</title>
+      <link>/201905/20190430__opmbgrcdwjg_small/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/201905/20190430__opmbgrcdwjg_small/</guid>
+      <description>Your browser does not support the video tag. https://www.youtube.com/watch?v=oPmbGRcDwJg 六四30周年 - 我是記者 我的六四故事small  </description>
+    </item>
+    
+  </channel>
+</rss>
