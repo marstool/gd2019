@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="hddp://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="hddp://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>/201904/</loc>
@@ -12,6 +12,10 @@
   
   <url>
     <loc>/201904/20190427_gct8r3s6kxo__/</loc>
+  </url>
+  
+  <url>
+    <loc>/201904/20190501_8_hcp15xbwk/</loc>
   </url>
   
   <url>
