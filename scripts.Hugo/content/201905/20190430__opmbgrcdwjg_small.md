@@ -5,6 +5,7 @@ weight = 20
 +++
 
 
+<!--
 <video width="95%" preload="none"
 poster="20190430__opmbgrcdwjg_small.mp4.jpg"
 controls>
@@ -12,3 +13,5 @@ controls>
 type="video/mp4">
 Your browser does not support the video tag.  https://www.youtube.com/watch?v=oPmbGRcDwJg 六四30周年 - 我是記者 我的六四故事small
 </video>
+-->
+{{< myvideo01 mp4="20190430__opmbgrcdwjg_small.mp4" >}}
