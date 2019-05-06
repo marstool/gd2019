@@ -14,4 +14,4 @@ type="video/mp4">
 Your browser does not support the video tag.  https://www.youtube.com/watch?v=oPmbGRcDwJg 六四30周年 - 我是記者 我的六四故事small
 </video>
 -->
-{{< myvideo04 mp4="20190430__opmbgrcdwjg_small.mp4" >}}
+{{< myvideo04000 mp4="20190430__opmbgrcdwjg_small.mp4" >}}
